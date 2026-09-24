@@ -46,7 +46,7 @@ WorkBuddy2API 是一个自托管的 **OpenAI 兼容上游网关**，将 ```CodeB
 
 > ⚠️ 合规须知：本项目是**非官方**网关，使用 ```CodeBuddy``` 账号作为上游，**仅限本人授权账号、本机 / 私有环境测试**。详细边界见[安全与合规](#安全与合规)。
 
-📖 完整文档见 [GitHub Wiki](https://github.com/Sliverkiss/workbuddy2api/wiki)。
+📖 完整文档见 [GitHub Wiki](https://github.com/Sndeok/workbuddy2api/wiki)。
 
 ## 核心能力
 
@@ -145,7 +145,7 @@ flowchart LR
 ### Docker Compose 一键部署
 
 ```bash
-git clone https://github.com/Sliverkiss/workbuddy2api.git
+git clone https://github.com/Sndeok/workbuddy2api.git
 cd workbuddy2api
 cp config.example.json config.json
 ```
